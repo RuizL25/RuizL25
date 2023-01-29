@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RuizL25
-- 👀 I’m interested in programing lenguage like Java, Javascript, c++. R
+- 👀 I’m interested in programing lenguage like Java, Javascript, c++. python
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on proyects that my knowledge may help and improve my knowledge with help of the other developers  
 - 📫 How to reach me, in ruizluisfernando2502@gmail.com
