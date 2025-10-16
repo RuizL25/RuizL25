@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="mailto:ruizluisfernando2502@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ruizluisfernando2502%40gmail.com-blue?logo=gmail"></a>
-  <a href="www.linkedin.com/in/rluiz/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/rluiz/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/RuizL25?tab=repositories" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Repos-181717?logo=github&logoColor=white"></a>
 </p>
 
@@ -78,5 +78,5 @@ Lately, I’m focused on **Retrieval-Augmented Generation (RAG)** and **Agent-ba
 ## Contact
 
 - 📫 Email: **ruizluisfernando2502@gmail.com**  
-- 💼 LinkedIn: <a href="www.linkedin.com/in/rluiz">/in/<tu-handle-linkedin></a>
+- 💼 LinkedIn: <a href="https://www.linkedin.com/in/rluiz/">/in/<tu-handle-linkedin></a>
 
