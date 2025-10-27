@@ -47,7 +47,6 @@ Lately, I’m focused on **Retrieval-Augmented Generation (RAG)** and **Agent-ba
 <br>
 <img src="https://img.shields.io/badge/LangChain-2C2C2C?logo=chainlink&logoColor=white" />
 <img src="https://img.shields.io/badge/Vector%20DB-Milvus-00A3FF" />
-<img src="https://img.shields.io/badge/Vector%20DB-Chroma-4A148C" />
 <img src="https://img.shields.io/badge/LLMs-OpenAI%2FGemini%2FMistral-111" />
 
 <!-- Frontend -->
@@ -60,7 +59,6 @@ Lately, I’m focused on **Retrieval-Augmented Generation (RAG)** and **Agent-ba
 <br>
 <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white" />
-<img src="https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white" />
 <img src="https://img.shields.io/badge/GCP-4285F4?logo=googlecloud&logoColor=white" />
 
 ---
@@ -78,5 +76,5 @@ Lately, I’m focused on **Retrieval-Augmented Generation (RAG)** and **Agent-ba
 ## Contact
 
 - 📫 Email: **ruizluisfernando2502@gmail.com**  
-- 💼 LinkedIn: <a href="https://www.linkedin.com/in/rluiz/">/in/<tu-handle-linkedin></a>
+- 💼 LinkedIn: <a href="https://www.linkedin.com/in/rluiz/">Luis Ruiz</a>
 
